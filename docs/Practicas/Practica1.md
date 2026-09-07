@@ -1,1 +1,80 @@
-Hola
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>Temporizador 555</title>
+        <link rel="icon" type="image/png" href="https://img.icons8.com/?size=100&id=1581&format=png" sizes="32x32">
+	    <link rel="preconnect" href="https://fonts.googleapis.com"> <!-- Estas lineas de google fonts son para implementar fuentes de texto en la pagina web -->
+	    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	    <link href="https://fonts.googleapis.com/css2?family=Caacupe+One&family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&family=Passion+One:wght@400;700;900&display=swap" rel="stylesheet">
+        <style type="text/css"> <!-- Estilos para la pagina-->
+        h1{
+            font-family: 'Caacupe One', sans-serif;
+            font-size: 60px;
+            text-align: left;
+        }
+        th{
+            font-family: 'Passion One', cursive;
+            font-size: 20px;
+            text-align: center;
+        }
+        td{
+            font-family: 'DM Sans', sans-serif;
+            font-size: 15px;
+            text-align: center;
+        }
+        </style>
+    </head>
+    <body>
+        <h1>Temporizador 555</h1>
+        <p>Este es un temporizador basado en el circuito integrado 555.</p>
+        <table border="1">
+            <tr>
+                <th>Magnitud</th>
+                <th>Teórico (Calculado)</th>
+                <th>Medido</th>
+                <th>% de error</th>
+                <th>¿Con qué lo mediste?</th>
+            </tr>
+            <tr>
+                <td>Vcc(V)</td>
+                <td>5.0</td>
+                <td>5.025</td>
+                <td>0.5%</td>
+                <td>Multímetro (V, en paralelo)</td>
+            </tr>
+            <tr>
+                <td>V de salida en ALTO (V)</td>
+                <td>≈ Vcc - 1.5</td>
+                <td>4.40V</td>
+                <td>25.71%</td>
+                <td>Multímetro / osciloscopio</td>
+            </tr>
+            <tr>
+                <td>Frecuencia (Hz)</td>
+                <td>0.69</td>
+                <td>0.67</td>
+                <td>2.90%</td>
+                <td>Osciloscopio / DMM con Hz</td>
+            </tr>
+            <tr>
+                <td>Duty (%)</td>
+                <td>52.4</td>
+                <td>51.4</td>
+                <td>1.91%</td>
+                <td>Osciloscopio (Measure)</td>
+            </tr>
+            <tr>
+                <td>I del LED (mA)</td>
+                <td>(V out - Vf)/330</td>
+                <td>52.05</td>
+                <td>0.96%</td>
+                <td>Multímetro (A, en serie)</td>
+            </tr>
+        </table>
+        <video controls width="640" height="360">
+            <source src="ExplicacionTimer555.mp4" type="video/mp4">
+        </video>
+        <p>Se usó la IA Gemini para consultar como insertar el video en la página.</p>
+    </body>
+</html>
