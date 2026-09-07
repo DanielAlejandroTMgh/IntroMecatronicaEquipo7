@@ -82,7 +82,7 @@
                 <td>Multímetro (A, en serie)</td>
             </tr>
         </table>
-        <h2>Explicación de las diferencias en las tablas de verdad<h2>
+        <h2>Explicación de las diferencias en las tablas de verdad</h2>
         <p class="texto">Nosotros creemos que las diferencias que se dieron comparando la tabla con nuestra 
         medición puede ser el capacitor ya que si bien son de la misma capacidad investigamos que 
         podría variar un poco por diferentes razones, otra razón creemos que seria que los cables no 
