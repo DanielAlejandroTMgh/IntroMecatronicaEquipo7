@@ -35,7 +35,7 @@
         }
         </style>
     </head>
-    <body>
+    <body markdown="1">
         <h1>Temporizador 555</h1>
         <p class="texto">Este es un temporizador basado en el circuito integrado 555.</p>
         <table border="1">
