@@ -100,11 +100,12 @@
         allowfullscreen>
         </iframe>
         <h2>Esquemáticos en Tinkercad</h2>
-        <img src="EsquematicoTimerTinkercad.png" width="500" height="300">
+
+![Esquemático del temporizador](EsquematicoTimerTinkercad.png)
         <h2>Montaje en protoboard</h2>
-        <img src="armadotimer.jpg" width="500" height="300">
+![Montaje en protoboard](armadotimer.jpg)
         <h2>Bitácora de errores</h2>
         <p class="texto">Al principio el Led no encendía y no sabíamos porque , para solucionar este problema primero nos aseguramos que la fuente de alimentación fuera la correcta, después comprobamos que nuestro Led estuviera funcionando correctamente y no estuviera quemado, después de eso comparamos el protoboard con el de la imagen para ver que todo estuviera en su lugar, ahí nos dimos cuenta que nos hacía falta una conexión lo que cual impedía que la corriente pasara por todo el circuito, lo conectamos correctamente y nuestro Led prendió con normalidad</p>
-        <p>Se usó la IA Gemini para consultar como insertar el video en la página.</p>
+        <p>Se usó la IA Gemini para consultar como insertar el video y las imagenes apropiadamente en la página.</p>
     </body>
 </html>
