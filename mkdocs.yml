@@ -62,10 +62,10 @@ nav:
       - "Vision Mecatronica": Reflexiones/VisionMecatronica.md
       - "Vision MecatronicaDaniel": Reflexiones/VisionMecatronica.md
   - "Proyecto de Ingenieria Abraham":
-    - "Reporte Caja": ProyectoDeIngenieriaAbraham/Reporte2.md
-    - "Reporte corte laser": ProyectoDeIngenieriaAbraham/Reporte3.md
-    - "Reporte IDIT": ProyectoDeIngenieriaAbraham/Reporte1.md
-    
+    - "Reporte Caja": docs/ProyectoDeIngenieriaAbraham/Reporte2.md
+    - "Reporte corte laser": docs/ProyectoDeIngenieriaAbraham/Reporte3.md
+    - "Reporte IDIT": docs/ProyectoDeIngenieriaAbraham/Reporte1.md
+
 
 
 
