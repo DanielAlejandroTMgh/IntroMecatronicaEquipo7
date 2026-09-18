@@ -18,31 +18,31 @@ Al terminar la practica recogimos todos los materiales que utilizamos y devolvim
 # Materiales que utilizamos y para que sirven 
 
 <p align="center">
-  <img src="Imagenes/IMG_2812.png" width="300">
+  <img src="../../Imagenes/IMG_2812.png" width="300">
 </p>
 
 Esta es la sierra ah 90°, esta nos permite cortar pedazos de ciertos metales y que los cortes salgan a 90°, tanto con esta y con las demas sierras hay que tener en cuenta que se comen un poco de pedazos por la anchura de la sierra.
 
 <p align="center">
-  <img src="Imagenes/IMG_2813.png" width="300">
+  <img src="../../Imagenes/IMG_2813.png" width="300">
 </p>
 
 Esta es la sierra a 45°, es exactamente igual que la sierra de 90° solo que esta tiene un angulo diferente y hace cortes a diferentes medidas.
 
 <p align="center">
-  <img src="Imagenes/IMG_2811.png" width="300">
+  <img src="../../Imagenes/IMG_2811.png" width="300">
 </p>
 
 En esta herramineta podemos apoyarnos para quitar imperfecciones de los pedazos de metal, normalmente se ocupa para quitar cualquier exceso que haya sobrado de cortar algun metal.
 
 <p align="center">
-  <img src="Imagenes/IMG_2822.png" width="300">
+  <img src="../../Imagenes/IMG_2822.png" width="300">
 </p>
 
 Esta es la maquina que nos ayuda a lijar los pedazos de metal que sobran despues de cortar el metal, gira muy rapido y por la friccion logra quitar los pedazos que sobran.
 
 <p align="center">
-  <img src="Imagenes/GeneradorDeEnergia.png" width="300">
+  <img src="../../Imagenes/GeneradorDeEnergia.png" width="300">
 </p>
 
 Esta es una de las maquinas mas importantes para soldar ya que es la que le da energia a la soldadura, una de sus pinzas es la que va en la mesa para hacer tierra, con esta mquina podemos regular la potencia con la que podemos trabajar y sin esta maquina no podriamos soldar ya que no tendriamos energia.

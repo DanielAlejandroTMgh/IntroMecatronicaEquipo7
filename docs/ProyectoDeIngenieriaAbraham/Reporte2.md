@@ -20,22 +20,22 @@ En esta practica aprendi a modelar y a como usar diferentes herramientas para lo
 # Imagenes del Cubo en Solidworks
 
 <p align="center">
-  <img src="Imagenes/caradelcubo.png" width="300">
+  <img src="../../Imagenes/caradelcubo.png" width="300">
 </p>
 
 <p align="center">
-  <img src="Imagenes/diseño.png" width="300">
+  <img src="../../Imagenes/diseño.png" width="300">
 </p>
 
 <p align="center">
-  <img src="Imagenes/ensamble.png" width="300">
+  <img src="../../Imagenes/ensamble.png" width="300">
 </p>
 
 <p align="center">
-  <img src="Imagenes/arrriba.png" width="300">
+  <img src="../../Imagenes/arrriba.png" width="300">
 </p>
 
 <p align="center">
-  <img src="Imagenes/varios.png" width="300">
+  <img src="../../Imagenes/varios.png" width="300">
 </p>
 
