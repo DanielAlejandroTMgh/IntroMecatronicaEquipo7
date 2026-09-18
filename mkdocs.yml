@@ -48,7 +48,7 @@ extra_javascript:
 nav:
   - Inicio: index.md
   - "Sobre Mí": SobreMi.md
-  - "DocumentacionClases":
+  - "DocumentacionClases Daniel Trejo":
       - "Clase 1": DocumentacionClases/Clase28_08_26.md
       - "Clase 2": DocumentacionClases/Clase04_09_26.md
       - "Clase 3": DocumentacionClases/Demostracion08_09_26.md
