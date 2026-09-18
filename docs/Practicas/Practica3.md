@@ -38,34 +38,21 @@
         </a>
         <p>(hacer click en la imagen ^ para el video)</p>
         <img src="../../recursos/imgs/IDEmotorVelocidad.png">
-        <h2>Bounce</h2>
-       <a href="../../recursos/videos/VideoBounce.mp4">
-            <img src="../../recursos/imgs/EsquematicoBlinkBoton.png" width="500" height="300"> <!-- Mismo esquematico -->
+        <h2>Servo Posicion y Duty</h2>
+       <a href="../../recursos/videos/VideoServoDutyPos.mp4">
+            <img src="../../recursos/imgs/EsquematicoServoDutyPos.png" width="500" height="300">
         </a>
-        <p>(hacer click en la imagen para el video)</p>
-        <img src="../../recursos/imgs/CodigoBounceIDE.png">
-        <h2>¿Que es el Rebote de un Boton?</h2>
-        <p class="texto">El rebote de un botón ocurre cuando presionamos el botón de 
-        nuestro circuito , son como micro pulsaciones que detecta 
-        aunque solo hayas presionado el botón una vez , no es 
-        detectable ah simple vista , el rebote puede afectar un poco ya 
-        que aunque nosotros no lo podemos ver el sistema si , lo que 
-        ocasiona que interprete una pulsación como varias y en nuestro 
-        circuito se apague y se prenda el led de manera muy rápida.</p>
-        <h2>¿Por qué con INPUT_PULLUP la lógica queda invertida?</h2>
-        <p class="texto">Cuando usamos INPUT_PULLUP en Arduino, la forma en que se 
-        leen los valores del botón cambia un poco. Normalmente 
-        cuando presionamos un botón obtenemos un 1 (HIGH) y 
-        cuando no lo presionamos obtenemos un 0 (LOW). Pero 
-        con INPUT_PULLUP pasa lo contrario. <br>
-        Esto pasa porque Arduino utiliza una resistencia interna que 
-        mantiene el pin en HIGH cuando el botón está sin presionar, 
-        mientras no hacemos nada, Arduino está leyendo un 1, 
-        entonces cuando presionamos el boton hace conexión con 
-        GND (tierra) y al estar conectado a tierra el pin pasa a LOW , lo 
-        que significa que es 0 y por lo tanto el Led se apaga.</p>
+        <p>(hacer click en la imagen ^ para el video)</p>
+        <img src="../../recursos/imgs/IDEservoDutyPos.png">
+        <img src="../../recursos/imgs/IDEservoDutyPos2.png">
+        <h2>Explicación</h2>
+        <p class="texto">
+        En el código del Motor Direccion es un programa que controla las direcciones de dos motores al mismo tiempo, cambiando entre atras y adelante según los verdaderos y falsos que se mandan a cada motor, y parando si ambos valores son falsos.
+        <br>En el código del Motor Velocidad es un programa que controla la velocidad a la que se mueve el motor, incrementando en intervalos de 20%, cada uno subiendo por 51, pues es el 20% de 255.
+        <br>En el código del SERVO RC CALCULO DUTY lo que podemos ver es que es un programa que mueve dos servomotores en sincronía, haciéndolos pasar repetidamente por tres posiciones: 0°, 90° y 180°, con una pausa de 1 segundo entre cada movimiento. Al llegar al final, vuelve a empezar desde 0°, y así indefinidamente mientras el Arduino esté encendido. Al mismo tiempo, cada vez que cambia de posición, llama a una función para calcular el Duty.</p>
         <h2>Reporte de Fallas</h2>
-        <p class="texto">En esta practica el unico erros que tuvimos fue que nos falto conectar un jumper y por lo tanto nuestro Led no prendia.
-        Lo que hicimos para solucionarlo fue revisar que todo estuviera correctamente colocado y conectar el jumper que nos hacia falta</p>
+        <p class="texto">El principal problema que tuvimos fue que el código que nos había dado no era compatible con el sistema de tinkercad ya que no contaba con los elementos para los que estaba echo el código. La solución que le dimos fue modificar el código para que funcionara con los sistemas de tinkercad.</p>
+        <h2>Conclusiones</h2>
+        <p class="texto">En conclusión este código es básico de cómo hacer que un Arduino controle el movimiento de dos motores y servos al mismo tiempo, controlando la direccion de movimiento y la velocidad de los motores, y llevando los servos paso a paso por tres posiciones fijas de forma repetitiva mientras se calcula el Duty con cada cambio, sin que nada externo lo interrumpa o modifique. </p>
     </body>
 </html>
