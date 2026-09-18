@@ -42,7 +42,7 @@ En esta herramineta podemos apoyarnos para quitar imperfecciones de los pedazos 
 Esta es la maquina que nos ayuda a lijar los pedazos de metal que sobran despues de cortar el metal, gira muy rapido y por la friccion logra quitar los pedazos que sobran.
 
 <p align="center">
-  <img src="GeneradorDeEnergia.png" width="300">
+  <img src="Imagenes/GeneradorDeEnergia.png" width="300">
 </p>
 
 Esta es una de las maquinas mas importantes para soldar ya que es la que le da energia a la soldadura, una de sus pinzas es la que va en la mesa para hacer tierra, con esta mquina podemos regular la potencia con la que podemos trabajar y sin esta maquina no podriamos soldar ya que no tendriamos energia.
