@@ -16,3 +16,26 @@ Al final se esporto el archivo con una terminacion especifica para que se pudier
 # Conclusiones 
 
 En esta practica aprendi a modelar y a como usar diferentes herramientas para lograr que dos piezas al final se puedan ensamblar.
+
+# Imagenes del Cubo en Solidworks
+
+<p align="center">
+  <img src="Imagenes/caradelcubo.png" width="300">
+</p>
+
+<p align="center">
+  <img src="Imagenes/diseño.png" width="300">
+</p>
+
+<p align="center">
+  <img src="Imagenes/ensamble.png" width="300">
+</p>
+
+<p align="center">
+  <img src="Imagenes/arrriba.png" width="300">
+</p>
+
+<p align="center">
+  <img src="Imagenes/varios.png" width="300">
+</p>
+
