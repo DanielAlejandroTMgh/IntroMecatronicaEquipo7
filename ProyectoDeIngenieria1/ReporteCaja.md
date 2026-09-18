@@ -32,7 +32,7 @@ En esta practica aprendi a modelar y a como usar diferentes herramientas para lo
 </p>
 
 <p align="center">
-  <img src="Imagenes/arriba.png" width="300">
+  <img src="Imagenes/arrriba.png" width="300">
 </p>
 
 <p align="center">
