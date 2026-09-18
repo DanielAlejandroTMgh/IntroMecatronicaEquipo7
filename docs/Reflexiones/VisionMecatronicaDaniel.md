@@ -1,1 +1,5 @@
-Hola soy Daniel
+<html>
+    <head>
+    <title>Vision Mecatronica Daniel</title>
+    </head>
+</html>
