@@ -47,6 +47,3 @@ Esta es la maquina que nos ayuda a lijar los pedazos de metal que sobran despues
 
 Esta es una de las maquinas mas importantes para soldar ya que es la que le da energia a la soldadura, una de sus pinzas es la que va en la mesa para hacer tierra, con esta mquina podemos regular la potencia con la que podemos trabajar y sin esta maquina no podriamos soldar ya que no tendriamos energia.
 
-<p align="center">
-  <img src="Imagenes/IMG_2812.png" width="400">
-</p>
