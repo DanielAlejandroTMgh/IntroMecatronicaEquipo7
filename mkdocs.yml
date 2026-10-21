@@ -42,6 +42,7 @@ theme:
 extra_css:
   - https://use.fontawesome.com/releases/v6.5.2/css/all.css
   - https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css
+    - reporte4.css
 extra_javascript:
   - javascripts/mathjax.js
   - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
@@ -65,7 +66,7 @@ nav:
     - "Reporte Caja": ProyectoDeIngenieriaAbraham/Reporte2.md
     - "Reporte corte laser": ProyectoDeIngenieriaAbraham/Reporte3.md
     - "Reporte IDIT": ProyectoDeIngenieriaAbraham/Reporte1.md
-
+    - "Máquinas del IDIT": ProyectoDeIngenieriaAbraham/Reporte4.md
 
 
 
