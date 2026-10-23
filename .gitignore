@@ -2,3 +2,4 @@
 site/
 *.pyc
 .venv/
+.DS_Store
