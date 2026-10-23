@@ -1,0 +1,19 @@
+/* Estilo académico para Reporte 4: no altera el orden ni el texto. */
+.md-typeset img[src*="imagenes_reporte4/"] {
+  display: block;
+  width: 72%;
+  max-width: 680px;
+  max-height: 440px;
+  height: auto;
+  object-fit: contain;
+  margin: 1.1rem auto 1.6rem;
+  border-radius: 6px;
+}
+.md-typeset h1 {
+  color: #8b1e2d;
+  border-bottom: 2px solid #8b1e2d;
+  padding-bottom: .35rem;
+}
+.md-typeset h2, .md-typeset h3 {
+  color: #8b1e2d;
+}
