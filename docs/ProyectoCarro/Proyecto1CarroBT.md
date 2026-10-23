@@ -12,16 +12,6 @@
             font-size: 60px;
             text-align: left;
         }
-        h2{
-            font-family: 'Caacupe One', sans-serif;
-            font-size: 30px;
-            text-align: left;
-        }
-        p.texto{
-            font-family: 'DM Sans', sans-serif;
-            font-size: 12px;
-            text-align: left;
-        }
         </style>
     </head>
     <body markdown="1">
