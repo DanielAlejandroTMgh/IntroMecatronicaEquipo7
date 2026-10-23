@@ -2,7 +2,7 @@
 
 (Fecha: ________)
 
-En esta práctica el profesor Oliver nos enseñó primero a medir piezas pequeñas con herramientas de precisión, y después nos explicó cómo se usan varias máquinas del taller. Aquí cuento lo que hicimos y lo que aprendí.
+En esta práctica el profesor Oliver nos enseñó primero a medir piezas pequeñas con herramientas de precisión, y después nos explicó cómo se usan varias máquinas del taller.
 
 ## Parte 1: Aprendiendo a medir
 
@@ -36,15 +36,15 @@ Después de la explicación practicamos con unos cubos de madera. Yo medí con u
 
 Al comparar, las medidas del bloque 7 casi coinciden entre las dos herramientas: con el vernier el largo salió 4.06 cm (40.6 mm) y el ancho 3.67 cm (36.7 mm), y con el micrómetro 40.55 mm y 36.56 mm. La diferencia es de apenas una décima de milímetro, y la altura (1.84 cm) también es menor a 25 mm.
 
-![Vernier midiendo un cubo de madera](imagenes_practica/vernier_01.jpg){ width="60%" }
+![Micrometro midiendo el cubo 17](../recursos/imgs/Vernier15.jpg){ width="60%" }
 
-Medición de un cubo sin número con el vernier.
+Medición del cubo 17 con el micrometro.
 
-![Vernier midiendo el cubo 15](imagenes_practica/vernier_02.jpg){ width="60%" }
+![Vernier midiendo el cubo 15](../recursos/imgs/Vernier15.jpg){ width="60%" }
 
 Medición del cubo 15.
 
-![Vernier junto al cubo 7](imagenes_practica/vernier_03.jpg){ width="60%" }
+![Vernier junto al cubo 7](../recursos/imgs/Vernier7.jpg){ width="60%" }
 
 Medición del cubo 7.
 
@@ -66,11 +66,10 @@ Empezamos con la soldadora de puntos. Se usa para unir dos piezas de metal en un
 
 El profesor nos recomendó no dejar presionado mucho tiempo, porque la soldadura se puede pegar y se puede dañar la pieza o la máquina.
 
-![Soldadora de puntos](imagenes_practica/soldadora_01.jpg){ width="60%" }
+![Soldadora de puntos](../recursos/imgs/soldadora.jpg){ width="60%" }
 
 Soldadora de puntos vista de lado.
 
-<!-- Espacio para otra foto: ![Descripción](imagenes_practica/NOMBRE.jpg){ width="60%" } -->
 
 ## Dobladora de lámina
 
@@ -78,11 +77,9 @@ Después pasamos a la dobladora de lámina, de la marca Dynamo. Como dice su nom
 
 Es sencilla: se mete la lámina entre las piezas de sujeción, se aprietan y se levanta la palanca para hacer el doblez. Se pueden hacer dobleces en distintos ángulos, según cómo la manejemos. Se puede usar entre una o dos personas, pero con dos es más cómodo.
 
-![Dobladora de lámina Dynamo](imagenes_practica/dobladora_01.jpg){ width="60%" }
+![Dobladora de lámina Dynamo](../recursos/imgs/dobladoraDynamo.jpg){ width="60%" }
 
 Dobladora de lámina de frente.
-
-<!-- Espacio para otra foto: ![Descripción](imagenes_practica/NOMBRE.jpg){ width="60%" } -->
 
 ## Guillotina
 
@@ -90,13 +87,13 @@ Enseguida vimos la guillotina, una máquina para cortar lámina. La que usamos e
 
 El profesor nos dijo que es más fácil hacerlo entre dos personas. También nos pidió no subirnos al pedal con los dos pies, porque cuando regresa, la fuerza de la máquina nos puede tirar.
 
-![Guillotina Disher de frente](imagenes_practica/guillotina_01.jpg){ width="60%" }
+![Guillotina Disher de frente](../recursos/imgs/guillotina.jpg){ width="60%" }
 
 Guillotina de pedal, vista de frente.
 
 También vimos una cizalla de palanca, más pequeña, que corta con la fuerza del brazo.
 
-![Cizalla de palanca junto a la soldadora de puntos](imagenes_practica/cizalla_01.jpg){ width="60%" }
+![Cizalla de palanca junto a la soldadora de puntos](../recursos/imgs/Cizalla.jpg){ width="60%" }
 
 Cizalla de palanca. Atrás se ven la soldadora de puntos y la sierra de cinta.
 
@@ -108,19 +105,13 @@ Más adelante llegamos a la sierra de cinta. Corta con una hoja larga en forma d
 
 Lo más importante que nos dijo el profesor es que hay que cortar siempre con las dos manos. Si se corta con una sola, la sierra puede empujar la pieza hacia atrás por la fuerza que lleva. Además, la sierra se puede subir y bajar con una manivela para dejar la guía justo arriba de la pieza y tener más control.
 
-![Sierra de cinta Urrea](imagenes_practica/sierra_01.jpg){ width="60%" }
+![Sierra de cinta Urrea](../recursos/imgs/SierraUrrea.jpg){ width="60%" }
 
 Sierra de cinta Urrea.
 
-![Sierra de cinta Urrea de frente](imagenes_practica/sierra_02.jpg){ width="60%" }
-
-La misma sierra, donde se ve la mesa y el motor.
-
-![Sierra de cinta Makita](imagenes_practica/sierra_03.jpg){ width="60%" }
+![Sierra de cinta Makita](../recursos/imgs/Sierramakita.jpg){ width="60%" }
 
 Sierra de cinta Makita.
-
-<!-- Espacio para otra foto: ![Descripción](imagenes_practica/NOMBRE.jpg){ width="60%" } -->
 
 ## Fresadora
 
@@ -128,19 +119,18 @@ Terminamos con la fresadora, que era de la marca Titanium, modelo TMD-50PRO. Seg
 
 El profesor explicó que hay que elegir bien la fresa, según el material y lo que se quiere hacer, para no dañar la máquina ni la pieza. También se escoge la velocidad: la placa de la máquina muestra varias velocidades que van desde 140 hasta 2100 RPM, dependiendo de la posición de las poleas. La pieza se sujeta con una prensa, y la máquina tiene una palanca para bajar la fresa y otras manivelas para mover la mesa de lado a lado.
 
-![Fresadora con una pieza de madera en la prensa](imagenes_practica/fresadora_01.jpg){ width="60%" }
+![Fresadora con una pieza de madera en la prensa](../recursos/imgs/fresadoraMadera.jpg){ width="60%" }
 
 Pieza de madera sujeta en la prensa de la fresadora.
 
-![Fresadora Titanium con la palanca de bajada](imagenes_practica/fresadora_02.jpg){ width="60%" }
+![Fresadora Titanium con la palanca de bajada](../recursos/imgs/fresadoraPalanca.jpg){ width="60%" }
 
 Fresadora de frente. Se ve la palanca que baja la fresa.
 
-![Placa de datos de la fresadora](imagenes_practica/fresadora_03.jpg){ width="60%" }
+![Placa de datos de la fresadora](../recursos/imgs/fresadoraDatos.jpg){ width="60%" }
 
 Placa de la fresadora con el modelo y las velocidades (RPM).
 
-<!-- Espacio para otra foto: ![Descripción](imagenes_practica/NOMBRE.jpg){ width="60%" } -->
 
 ## Conclusiones
 
