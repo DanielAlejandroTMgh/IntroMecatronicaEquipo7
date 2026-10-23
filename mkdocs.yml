@@ -73,12 +73,13 @@ nav:
     - "Reporte corte laser": ProyectoDeIngenieriaAbraham/Reporte3.md
     - "Reporte IDIT": ProyectoDeIngenieriaAbraham/Reporte1.md
     - "Máquinas del IDIT": ProyectoDeIngenieriaAbraham/Reporte4.md
-  - "ProyectoCarro":
-    - "Proyecto 1 Carro por BT": ProyectoCarro/Proyecto1CarroBT.md
-    - "READ ME Carro": ProyectoCarro/READMECarro.md
     - "Reporte carro F1": ProyectoDeIngenieriaAbraham/Reporte carro F1.md
     - "Impresión en 3D": ProyectoDeIngenieriaAbraham/Impresion en 3D.md
     - "Reporte Máquina CNC": ProyectoDeIngenieriaAbraham/Reporte Maquina CNC y grabado.md
+  - "ProyectoCarro":
+    - "Proyecto 1 Carro por BT": ProyectoCarro/Proyecto1CarroBT.md
+    - "READ ME Carro": ProyectoCarro/READMECarro.md
+    
 
 
 
